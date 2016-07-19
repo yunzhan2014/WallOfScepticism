@@ -1,3 +1,5 @@
-# My Awesome Book
+# Wall of Scepticism
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+作为在gitbook的第一本书，怀疑的墙，我生活在怀疑主义当中，我努力想要跃出去看看，想要排解这份忧愁和焦虑。因此，我想通过诗歌来表达这个我，留下我在时间上的印记。
+
+
